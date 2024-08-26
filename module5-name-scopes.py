@@ -16,3 +16,4 @@ mysterious_var = ['Suprise!']
 print(mysterious_var)
 show_truth()  
 print(mysterious_var)  
+
