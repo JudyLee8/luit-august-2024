@@ -14,3 +14,10 @@ print(user_data)
 
 numbers = (0, 1) * 10
 print(numbers)
+
+male_names = ['Adaam', 'Jerry', 'Mark']
+berling_temps = [13.0, 17.5, 12.0]
+user_data =('Joh', 'American', 1964)
+first = 5
+second = 7
+first, second = second, first
