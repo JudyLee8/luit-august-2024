@@ -8,3 +8,6 @@ user_data = ('John', 'American', 1964)
 user_data = ('Katya', 'Russian', 1980)
 
 print(user_data[0])
+
+message = 'Welcome'
+message = 'Welcome'
